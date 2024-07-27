@@ -58,7 +58,7 @@
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Beltahtech/SCENE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?org=team-beltah&template=https%3A%2F%2Fgithub.com%2FBeltahmod2%2FNOTHING' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 Enjoy the diverse features of the WhatsApp Bot SCENE-MD to enhance your conversations and make your WhatsApp experience more interesting!
 
